@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi there, I'm Abduaziz Abdunabiyev (Mr. Johnny aka)<br>🔹 Backend Developer | Software Engineer<br>📍 Uzbekistan</h3>
+<h3 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hi there, I'm Abduaziz Abdunabiyev (Mr. Johnny aka)<br>🔹 Backend Developer | Software Engineer<br>📍 Uzbekistan</h3>
 
 ###
 
